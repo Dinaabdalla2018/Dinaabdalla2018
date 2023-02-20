@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dina Abdallah from Egypt</h1>
-<h3 align="center">Machine Learning / Deep Learning Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center" href="https://www.creativefabrica.com/wp-content/uploads/2020/12/09/1607500149/Girl-coder.jpg" target="blank"><img src="https://www.creativefabrica.com/wp-content/uploads/2020/12/09/1607500149/Girl-coder.jpg" alt="Sublime's custom image" height="300" width="500"/></p>
 - 📫 How to reach me **dinaabdalla2018@gmail.com**
